@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com._BCI0317.hitwicket.HitwicketApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.105 s -- in com._BCI0317.hitwicket.HitwicketApplicationTests

@@ -1,0 +1,6 @@
+com\_BCI0317\hitwicket\HitwicketApplication.class
+com\_BCI0317\hitwicket\config\WebSocketConfig.class
+com\_BCI0317\hitwicket\controller\GameController.class
+com\_BCI0317\hitwicket\service\GameService.class
+com\_BCI0317\hitwicket\model\Move.class
+com\_BCI0317\hitwicket\model\GameState.class
